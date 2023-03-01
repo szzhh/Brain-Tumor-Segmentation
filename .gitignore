@@ -1,0 +1,9 @@
+/foldername/
+BraTS19_CBICA_AAM_1
+build
+dist
+mainwindow1.py
+test.ipynb
+test.py
+test.ui
+.qt_for_python

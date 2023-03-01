@@ -1,0 +1,1 @@
+pyinstaller window.py --noconsole --hidden-import PySide2.QtXml --icon="./brain.ico" --upx-dir=D:/Anaconda/upx/upx.exe
